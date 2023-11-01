@@ -1,0 +1,1 @@
+{"version":1,"defects":{"RedisStringTest::testExample":3,"RedisStringTest::testRedisStringExists":3},"times":{"RedisStringTest::testExample":0.019,"RedisStringTest::testRedisStringSetGet":0.007,"RedisStringTest::testRedisStringExists":0.001,"RedisStringTest::testRedisStringNoExists":0}}
